@@ -1,0 +1,2 @@
+Normal file for branch C.
+This file contains ordinary test data only.
